@@ -1,3 +1,3 @@
-# storybook-materialui-responsive-starter
+# lerna-next-rest-lib-starter
 
 UNDER DEVELOPMENT
