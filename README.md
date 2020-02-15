@@ -10,3 +10,4 @@ UNDER DEVELOPMENT
 - rest
 - starter
 - template
+- typescript
